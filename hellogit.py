@@ -19,6 +19,7 @@ print("Ver el estado actual del git para modificar");
 print("Ver el historial del git para modificar");
 # git log
 print("Commandos por default con alias");
+# git alias
 
 print("Añadir fichero o ficheros");
 # git add hellogit.py
