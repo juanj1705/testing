@@ -25,6 +25,7 @@ print("Ver el historial del git para modificar");
 # git log --graph
 # git log --graph --pretty=oneline
 # git log --graph --decorate --all --oneline
+# git reflog
 print("Ver diferencias o cambios especificos");
 #git diff
 
