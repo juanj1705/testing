@@ -56,5 +56,5 @@ print("Hacer borrador, ver la lista, recuperar y eliminar");
 # git stash drop
 
 print("Github");
-# git remote add origin https://github.com/juanj1705/testing.git
+# git remote add origin https://github.com/juanjosecavila/git-course.git
 # git push -u origin main
