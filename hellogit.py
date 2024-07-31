@@ -34,6 +34,7 @@ print("Añadir fichero o todos los ficheros");
 # git add .
 print("Captura de version");
 # git commit -m "Version"
+# GIT_COMMITTER_DATE="<DATE>" git commit -m "Version" --date="<DATE>"
 
 print("Regresar a version capturada");
 # git checkout
